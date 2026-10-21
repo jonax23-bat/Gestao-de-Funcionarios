@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Funcionários - CRUD PostgreSQL & Docker",
+  "description": "Sistema de gestão de funcionários com CRUD completo (Nome e CPF com validação), API REST Node.js, suporte a PostgreSQL e orquestração Docker Compose em estilo Glassmorphism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

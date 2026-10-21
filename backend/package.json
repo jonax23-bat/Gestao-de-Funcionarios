@@ -1,0 +1,17 @@
+{
+  "name": "backend-funcionarios-api",
+  "version": "1.0.0",
+  "description": "API REST Node.js para CRUD de Funcionários com PostgreSQL",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2",
+    "pg": "^8.13.3"
+  }
+}
